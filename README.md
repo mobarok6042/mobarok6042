@@ -9,11 +9,11 @@ I am an aspiring MERN stack web developer learning practicing various languages,
 ## Skills
 
 <p align="center">
-  <img src="./skills/icons8-html5-96.png" width="64" height="64" align="middle" />
-  <img src="./skills/icons8-css3-96.png" width="64" height="64" align="middle" />
-  <img src="./skills/icons8-javascript-96.png" width="64" height="64" align="middle" />
-  <img src="./skills/icons8-typescript-96.png" width="64" height="64" align="middle" />
-  <img src="./skills/icons8-nextjs-96.png" width="64" height="64" align="middle" />
-  <img src="./skills/icons8-tailwind-css-96.png" width="64" height="64" align="middle" />
-  <img src="./skills/icons8-react-96.png" width="64" height="64" align="middle" />
+  <img src="./skills/icons8-html5-96.png" width="80" height="80" align="middle" />
+  <img src="./skills/icons8-css3-96.png" width="80" height="80" align="middle" />
+  <img src="./skills/icons8-javascript-96.png" width="80" height="80" align="middle" />
+  <img src="./skills/icons8-typescript-96.png" width="80" height="80" align="middle" />
+  <img src="./skills/icons8-nextjs-96.png" width="80" height="80" align="middle" />
+  <img src="./skills/icons8-tailwind-css-96.png" width="80" height="80" align="middle" />
+  <img src="./skills/icons8-react-96.png" width="80" height="80" align="middle" />
 </p>
